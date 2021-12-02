@@ -1,6 +1,5 @@
 import {Cardlist} from './components/card-list/card-list.component';
 import { SearchBox } from './components/searchbox/searchbox.component';
-import logo from './logo.svg';
 import React, { Component } from 'react';
 import './App.css';
 
